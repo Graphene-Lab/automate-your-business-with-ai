@@ -103,3 +103,22 @@ The honest caveat: none of this was instant. The document-review assistant gave 
 **Measure honestly and expect the ramp.** Record the baseline before you start. Judge the project after the learning curve, not during it.
 
 The professional practice's lesson is the same as every sector's, with one extra guardrail: find the repetitive work, let AI draft and flag, keep a human on the judgment, and measure honestly — and in a profession, never let the tool touch a client's confidential file until you are certain it is safe to.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Draft a service contract
+
+![A drafted service agreement, ready for review](../../assets/examples/service-contract.png)
+*A drafted service agreement, ready for review*
+
+**What you ask:** `Draft a service contract between my studio and a client for a 3-month website project at 6,000 euros, with a 50% deposit.`
+
+The agent produces a clear contract with the parties, the scope of work, the payment schedule, and the timeline. It is a starting point you can review and adjust — not legal advice, but a solid draft that saves you hours of blank-page work.
+
+*Tip: Attach your old contract and ask it to follow the same style and clauses.*
+
+<!-- END agentbridge-examples -->

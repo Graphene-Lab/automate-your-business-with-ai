@@ -197,3 +197,61 @@ If a box is empty, the risk — to your systems, your data, or your decisions �
 - The saving comes from letting AI do the slow reading and checking while the human keeps the judgment; the same pattern works across support, security, reports, and decisions.
 - Keep sensitive data secure, know what AI is running on your network, and check the AI Act's high-risk and transparency rules before you deploy.
 - Measure your own baseline, keep a human in every big call, and treat the law as the floor and your own judgment as the standard above it.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Clean meeting notes
+
+![Tidy meeting minutes with decisions and actions](../../assets/examples/meeting-minutes.png)
+*Tidy meeting minutes with decisions and actions*
+
+**What you ask:** `Turn these rough notes into clean meeting minutes with a decisions list and action items: [paste notes]`
+
+The agent turns your messy notes into structured minutes: what was discussed, what was decided, and an action list with owners. You can send them straight to the team.
+
+*Tip: Paste your notes as they are — the agent sorts the order and the wording.*
+
+---
+
+### A quarterly board review
+
+![A quarterly review presentation slide](../../assets/examples/board-review.png)
+*A quarterly review presentation slide*
+
+**What you ask:** `Build a quarterly review deck: results, highlights, challenges, and next quarter plan.`
+
+The agent assembles the review deck with the results, the wins, the issues and the plan — laid out so the meeting moves quickly.
+
+*Tip: Attach your KPI sheet and the agent puts the charts in the slides.*
+
+---
+
+### See all your agents at a glance
+
+![The OfficeManager view of your agents](../../assets/examples/officemanager-view.png)
+*The OfficeManager view of your agents*
+
+**What you ask:** `(browser) Open the OfficeManager view.`
+
+OfficeManager shows your agents in one simple page, so you can see what is running and where things stand.
+
+*Tip: A quick way to keep an eye on more than one assistant at once.*
+
+---
+
+### A briefing you can listen to
+
+![An audio briefing ready to play](../../assets/examples/audio-briefing.png)
+*An audio briefing ready to play*
+
+**What you ask:** `Turn this week's summary into a short audio briefing I can listen to on the way to work.`
+
+The agent converts the written summary into a clear audio briefing, so your commute becomes useful time.
+
+*Tip: Schedule the weekly summary and its audio version together.*
+
+<!-- END agentbridge-examples -->

@@ -228,3 +228,74 @@ If a box is empty, the connection is not ready. Fill it first. A connected AI is
 - Use least access — give the AI only what it needs, prefer read over write, and keep a human on anything that reaches a customer.
 - Build clean, short, documented connections with a manual fallback; back-door hacks and silent failures are the traps that break you.
 - Connections are living things that need maintenance, monitoring, and access reviews — set them up and never walk away.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Check a supplier before you commit
+
+![A due-diligence summary of a supplier](../../assets/examples/due-diligence.png)
+*A due-diligence summary of a supplier*
+
+**What you ask:** `Research this supplier and tell me their reputation, how long they have been around, and any red flags.`
+
+The agent gathers what is publicly available and gives you a balanced picture with sources, so you decide with your eyes open.
+
+*Tip: Ask it to list what it could not find, so you know where to dig further.*
+
+---
+
+### Check an order in your system
+
+![An order status pulled from the business system](../../assets/examples/order-status.png)
+*An order status pulled from the business system*
+
+**What you ask:** `What is the status of order 4821?`
+
+The agent looks up the order in your connected system and tells you its status in plain words — no menu hunting.
+
+*Tip: This works once your business system is connected. See the book's connecting chapter.*
+
+---
+
+### The same assistant in your browser
+
+![The AgentBridge web chat in a browser window](../../assets/examples/web-chat.png)
+*The AgentBridge web chat in a browser window*
+
+**What you ask:** `(browser) Draft a thank-you note to our regular customers.`
+
+Open the web address and chat in the browser. Same tools, same documents, same memory — just a different window.
+
+*Tip: Handy when you are on a different machine but still want your own assistant.*
+
+---
+
+### Plug it into your own tools
+
+![The HTTP API lets other programs use the assistant](../../assets/examples/http-api.png)
+*The HTTP API lets other programs use the assistant*
+
+**What you ask:** `POST /v1/chat/completions  { "model": "default-agent", "messages": [...] }`
+
+Your own programs can call the assistant through a standard web API, the same way they would call any online service. One integration, many uses.
+
+*Tip: This is for the technical step — the book's connecting chapter walks through it.*
+
+---
+
+### Connect other AI tools to it
+
+![AgentBridge connected to other AI tools via MCP](../../assets/examples/mcp-connector.png)
+*AgentBridge connected to other AI tools via MCP*
+
+**What you ask:** `(MCP) Connect AgentBridge as a tool server.`
+
+Other AI applications can use AgentBridge's tools through the MCP standard, so your whole toolkit works together.
+
+*Tip: MCP is for connecting tools; for everyday use the chat is all you need.*
+
+<!-- END agentbridge-examples -->

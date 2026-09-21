@@ -197,3 +197,61 @@ If a box is empty, the risk is still yours. Fill it before you let AI near the m
 - The Elanco case (a 2026 Hackett Innovation Award winner) cut procure-to-pay query time to under 10 seconds, about a 99% reduction, by using a two-layer agent that drafts replies for human review and removes many queries entirely.
 - Forecast cash, not just profit, update it weekly, and plan so the worst-case dip is survivable.
 - Clean the process before you automate it, design for the exceptions, and keep an audit trail you can show.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Make an invoice in seconds
+
+![A finished invoice document produced by the agent](../../assets/examples/client-invoice.png)
+*A finished invoice document produced by the agent*
+
+**What you ask:** `Make an invoice for Bright Cafe for 12 hours of bookkeeping at 45 euros an hour, due in 14 days.`
+
+The agent writes a proper invoice with your business details, the line items, the subtotal, tax and total, and a due date. You get a real document you can print or send. If a number is wrong, you say so and it fixes it.
+
+*Tip: Ask for it as a real Word file (/tools office-files) if you want to keep editing it in Microsoft Office.*
+
+---
+
+### Write a formal letter
+
+![A formal business letter, formatted and ready](../../assets/examples/business-letter.png)
+*A formal business letter, formatted and ready*
+
+**What you ask:** `Write a formal letter to our landlord asking to renew the lease for another two years on the same terms.`
+
+The agent writes the letter with the right greeting, a clear body and a polite closing, in your business voice. You review it, change a word if you like, and send it.
+
+*Tip: Tell it who you are writing to and what you want; it handles the formal tone for you.*
+
+---
+
+### A budget you can read
+
+![A budget spreadsheet with a clear bar chart](../../assets/examples/monthly-budget.png)
+*A budget spreadsheet with a clear bar chart*
+
+**What you ask:** `Build a monthly budget spreadsheet with planned and actual for rent, marketing and salaries, plus a chart.`
+
+The agent creates the spreadsheet with the categories, the planned and actual columns, totals, and a chart that shows the difference at a glance. You can open it in Excel and keep working.
+
+*Tip: Ask for the chart title and the currency so it matches your business.*
+
+---
+
+### Send the invoice by email
+
+![The invoice attached to a ready-to-send email](../../assets/examples/invoice-email.png)
+*The invoice attached to a ready-to-send email*
+
+**What you ask:** `Email the invoice we just made to the client with a short, friendly cover note.`
+
+The agent attaches the invoice and writes a short cover note with the amount and due date. One message, sent.
+
+*Tip: Chain it: 'make the invoice and email it to the client' in a single ask.*
+
+<!-- END agentbridge-examples -->

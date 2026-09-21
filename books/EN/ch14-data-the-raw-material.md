@@ -223,3 +223,61 @@ If a box is empty and your project depends on it, fix that before you build. Goo
 - Quality means clean, complete, and up-to-date; plan the cleaning time, because it is most of the work everyone forgets.
 - Personal data carries legal duties — mark it, know your lawful basis, use the minimum, and remember GDPR follows it to any third-party service.
 - You can improve data step by step without an overhaul: pick one source of truth, fix at the point of entry, and clean only what your project needs.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Ask questions about your own files
+
+![The agent answering from your own documents](../../assets/examples/ask-your-documents.png)
+*The agent answering from your own documents*
+
+**What you ask:** `What is our cancellation policy with the printing supplier?`
+
+The agent searches your documents area and answers with what your own files actually say, pointing to the source.
+
+*Tip: Keep your business files in the documents area and they become searchable knowledge.*
+
+---
+
+### Find that old document
+
+![A search through your indexed archive](../../assets/examples/find-in-archive.png)
+*A search through your indexed archive*
+
+**What you ask:** `Find the proposal I sent to the hotel last spring about the lobby redesign.`
+
+The agent searches your indexed archive and brings back the document you meant, even when you only half-remember it.
+
+*Tip: The index updates as you add files, so the archive is always current.*
+
+---
+
+### It remembers how you like things
+
+![The agent applying your saved preferences](../../assets/examples/remember-preferences.png)
+*The agent applying your saved preferences*
+
+**What you ask:** `Make an invoice — you know how I like them.`
+
+The agent remembers your style and settings from before and applies them without you repeating yourself.
+
+*Tip: You can correct it any time; it updates what it remembers.*
+
+---
+
+### Nothing is ever lost
+
+![Version history lets you go back safely](../../assets/examples/version-history.png)
+*Version history lets you go back safely*
+
+**What you ask:** `Show me the previous version of the contract and restore it.`
+
+Every version the agent made is kept. You can see the earlier draft and bring it back, so editing is always safe.
+
+*Tip: This is why you can let the agent rewrite things freely — the history protects you.*
+
+<!-- END agentbridge-examples -->

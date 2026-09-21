@@ -229,3 +229,35 @@ If a box is empty, you are partly driving blind. Fill it. A small, honest dashbo
 - The value is in continuous monitoring — read the weekly trend, watch for slow decay, and act when a number crosses a pre-set warning threshold.
 - Measurement gives you three decisions: keep going, correct and continue, or stop; stopping early on honest numbers is a success, not a failure.
 - Avoid the sunk-cost trap and the vanity-metric trap — decide on future value and real outcomes, not past spending or impressive-but-meaningless counts.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Your key numbers on one sheet
+
+![A KPI dashboard with the numbers that matter](../../assets/examples/kpi-dashboard.png)
+*A KPI dashboard with the numbers that matter*
+
+**What you ask:** `Build a small KPI dashboard: monthly revenue, new customers, cost, and a chart of revenue trend.`
+
+The agent lays out the key figures and a trend chart on one clean sheet. It becomes the page you look at every week.
+
+*Tip: Keep the same sheet updated and ask the agent to compare this month to last month.*
+
+---
+
+### A financial summary report
+
+![A financial summary PDF with charts](../../assets/examples/financial-report.png)
+*A financial summary PDF with charts*
+
+**What you ask:** `Create a PDF financial summary for 2025: revenue, costs, profit and a year-over-year chart.`
+
+The agent builds the report with the figures, the trend chart and a plain-language summary of what the numbers mean.
+
+*Tip: Attach your ledger export and the agent reads the real numbers into the report.*
+
+<!-- END agentbridge-examples -->

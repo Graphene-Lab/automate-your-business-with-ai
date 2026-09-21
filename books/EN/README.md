@@ -4,6 +4,10 @@
 
 Each chapter is a separate file. Click a title to open it.
 
+## A Note About the Tool Behind This Book
+
+- [A Note About the Tool Behind This Book](preface-agentbridge.md)
+
 ## Part I — Foundations: Understand Where We Come From
 
 1. [A Short History of AI: From Philosophy to Business](ch01-a-short-history-of-ai.md)
@@ -27,6 +31,9 @@ Each chapter is a separate file. Click a title to open it.
 ## Part IV — Strategy and Preparation
 
 12. [Where AI Can Help Your Business](ch12-where-ai-can-help-your-business.md)
+12a. [Scheduled Tasks: Work That Runs by Itself](ch12a-scheduled-tasks.md)
+12b. [Your Assistant by Voice and by Phone](ch12b-your-assistant-by-voice-and-phone.md)
+12c. [Working on the Go with Telegram](ch12c-working-on-the-go-with-telegram.md)
 13. [Defining a Simple AI Strategy](ch13-defining-a-simple-ai-strategy.md)
 14. [Data: The Raw Material](ch14-data-the-raw-material.md)
 15. [People, Roles, and Culture](ch15-people-roles-and-culture.md)
@@ -35,6 +42,7 @@ Each chapter is a separate file. Click a title to open it.
 ## Part V — Choosing and Implementing
 
 17. [Choosing Tools Without Being Fooled](ch17-choosing-tools-without-being-fooled.md)
+17a. [Meet AgentBridge: Your Office Assistant](ch17a-meet-agentbridge.md)
 18. [Your First Pilot Project](ch18-your-first-pilot-project.md)
 19. [Connecting AI to Systems You Already Use](ch19-connecting-ai-to-systems-you-already-use.md)
 20. [Implementing AI Securely](ch20-implementing-ai-securely.md)

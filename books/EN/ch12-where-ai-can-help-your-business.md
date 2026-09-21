@@ -204,3 +204,74 @@ If your top pick fails several of these, move to the next one. Your first projec
 - The impact/ease matrix sorts every candidate into start-now, plan-carefully, do-when-idle, or ignore; begin with high-impact, high-ease quick wins.
 - Resist the impressive hard project; start small, prove the method, and fund the harder work later.
 - In any task that touches a person, keep a human checking and accountable — automation never removes responsibility.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### A market analysis report
+
+![A detailed PDF report with charts and sources](../../assets/examples/market-analysis.png)
+*A detailed PDF report with charts and sources*
+
+**What you ask:** `Produce a PDF market analysis of the specialty coffee retail segment: size, trends, competitors and outlook.`
+
+The agent researches the topic and writes a structured PDF report with sections, figures and cited sources — the kind of document that normally takes a consultant days.
+
+*Tip: Tell it the depth you need. 'Short brief' or 'detailed report' changes the length.*
+
+---
+
+### Research, written up
+
+![A research report PDF with options and a recommendation](../../assets/examples/research-report.png)
+*A research report PDF with options and a recommendation*
+
+**What you ask:** `Research the best ways for a small bakery to take orders online and write a PDF report with the options and a recommendation.`
+
+The agent searches the web, weighs the options and writes a clear report ending with a practical recommendation you can act on.
+
+*Tip: Ask it to list the sources so you can check anything yourself.*
+
+---
+
+### Know your competitors
+
+![A browser view of the agent's research findings](../../assets/examples/competitor-research.png)
+*A browser view of the agent's research findings*
+
+**What you ask:** `Look up our three main competitors and summarise their prices and what they highlight.`
+
+The agent browses the competitors' pages and brings back a clear comparison of prices and positioning, with the links so you can check.
+
+*Tip: Ask for it as a document or a spreadsheet if you want to keep the comparison.*
+
+---
+
+### What is trending in your field
+
+![A research summary with sources](../../assets/examples/market-trends.png)
+*A research summary with sources*
+
+**What you ask:** `What are the top three trends in small-business e-commerce this year? Give me sources.`
+
+The agent searches recent articles and gives you the key trends in plain language, each with a source you can open.
+
+*Tip: A weekly trend digest can be scheduled to keep you current automatically.*
+
+---
+
+### Your industry news, summarised
+
+![A short news digest with links](../../assets/examples/news-digest.png)
+*A short news digest with links*
+
+**What you ask:** `Give me a short digest of today's news that matters to a small logistics business.`
+
+The agent scans the news and writes a short digest of what is relevant to you, with links to read more.
+
+*Tip: Schedule it for every morning and start the day informed.*
+
+<!-- END agentbridge-examples -->

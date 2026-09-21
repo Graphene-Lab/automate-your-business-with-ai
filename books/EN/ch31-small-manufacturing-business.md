@@ -106,3 +106,48 @@ The honest caveat: none of this happened on day one. The quoting assistant was r
 **Connect, do not replace.** Northgate did not throw away its spreadsheets or its ERP. It bolted AI onto what already worked, as described in [Chapter 19](ch19-connecting-ai-to-systems-you-already-use.md). The shop kept its systems and added a smarter layer on top.
 
 The small manufacturer's lesson is the same as every other sector's: find the leak, pick the easiest high-value one, let AI draft and flag, keep a human on the decision, and measure honestly. A shop with twenty-five people and no engineers can do this. The tools are ready. The only thing missing is a clear look at where the money is leaking.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Design a simple part
+
+![A simple part modelled through the CAD tool](../../assets/examples/part-design.png)
+*A simple part modelled through the CAD tool*
+
+**What you ask:** `Design a small metal bracket 80 by 40 millimetres with four mounting holes.`
+
+The agent drives the CAD tool to model the part with the right dimensions, and you get a file you can review or export.
+
+*Tip: Describe the shape and the measurements; the agent handles the CAD steps.*
+
+---
+
+### Check how parts fit
+
+![An assembly check between two parts](../../assets/examples/assembly-check.png)
+*An assembly check between two parts*
+
+**What you ask:** `Place these two parts together and check for any overlap or clearance issues.`
+
+The agent assembles the parts in the CAD model and points out where they clash or where the fit is too tight.
+
+*Tip: Catch fit problems on screen, not on the workshop bench.*
+
+---
+
+### A drawing for the workshop
+
+![A dimensioned technical drawing for production](../../assets/examples/technical-drawing.png)
+*A dimensioned technical drawing for production*
+
+**What you ask:** `Produce a technical drawing of the bracket with the key dimensions marked.`
+
+The agent generates a drawing with the dimensions marked, ready for the person who will make the part.
+
+*Tip: Ask for the view you need — top, side — so the drawing is clear.*
+
+<!-- END agentbridge-examples -->

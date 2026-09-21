@@ -6,6 +6,24 @@ A practical, plain-English book that helps small-business owners, managers, and 
 
 This book is written for people who run businesses, not for engineers. Every idea is explained in simple words, with real examples, step-by-step guidance, exercises, and checklists you can use the same day.
 
+## Download the book (free)
+
+The English (EN) edition is free to read and share under its license:
+
+- **PDF:** [`publish/Automate-Your-Business-with-AI-EN.pdf`](publish/Automate-Your-Business-with-AI-EN.pdf)
+- **EPUB:** [`publish/Automate-Your-Business-with-AI-EN.epub`](publish/Automate-Your-Business-with-AI-EN.epub)
+
+## The tool behind the examples
+
+Every automation described in this book can be done with **AgentBridge**, an AI office
+assistant made by Graphene Lab. It runs on your own computer and does the real work:
+documents, spreadsheets, email, research, presentations, and tasks that run on a schedule.
+
+- Get the code: **https://github.com/Graphene-Lab/AgentBridge/**
+- Want to automate your business? **https://graphenelab.it/** · Telegram: **https://t.me/yd8j9**
+
+The [preface](books/EN/preface-agentbridge.md) has QR codes and more detail.
+
 ## Who this book is for
 
 - Owners and managers of small and medium businesses (SMBs)

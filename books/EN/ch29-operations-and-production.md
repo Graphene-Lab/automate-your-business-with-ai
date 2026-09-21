@@ -203,3 +203,48 @@ If a box is empty, the risk — to your product, your people, or your trust — 
 - Predictive maintenance turns a surprise breakdown into a cheap planned fix; computer-vision quality control checks every unit consistently instead of sampling with tired eyes.
 - In workplace safety, monitor hazards and protective gear — never workers' emotions, which the EU AI Act bans — and tell workers before any monitoring that affects them.
 - Target the most costly failure first, keep a human override for real-world disruptions, and measure your own baseline before you trust any vendor's number.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Keep stock in order
+
+![An inventory sheet with low-stock items highlighted](../../assets/examples/inventory-list.png)
+*An inventory sheet with low-stock items highlighted*
+
+**What you ask:** `Make an inventory spreadsheet with item, quantity, reorder level and supplier, and highlight what is below the reorder level.`
+
+The agent sets up the inventory sheet and marks the items that need reordering. Update the quantities and ask it to re-check any time.
+
+*Tip: A weekly scheduled check can tell you what to reorder before you run out.*
+
+---
+
+### Plan a delivery route
+
+![A delivery route mapped across the stops](../../assets/examples/delivery-route.png)
+*A delivery route mapped across the stops*
+
+**What you ask:** `Plan the best route for these five delivery addresses and show it on a map.`
+
+The agent plots the stops on a map in an efficient order and gives you the distance and estimated time. You follow the route and save fuel.
+
+*Tip: Add time windows ('stop B before noon') and the agent factors them in.*
+
+---
+
+### Is it in stock?
+
+![A live stock check answered in seconds](../../assets/examples/stock-check.png)
+*A live stock check answered in seconds*
+
+**What you ask:** `Do we have item SKU 3391 in stock, and how many?`
+
+The agent checks the stock in your system and answers with the quantity, so you can promise or promise-against with confidence.
+
+*Tip: Pair with a low-stock alert scheduled daily to avoid surprises.*
+
+<!-- END agentbridge-examples -->

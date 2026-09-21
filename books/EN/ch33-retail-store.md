@@ -103,3 +103,22 @@ The honest caveat: none of this was instant. The forecast was rough for the firs
 **Measure honestly and expect the ramp.** Record the baseline before you start. Judge the project after the learning curve, not during it.
 
 The small retailer's lesson is the same as every other sector's: find the leak, pick the easiest high-value one — usually the stock that ties up cash — let AI predict and draft, keep a human on the order and the message, and measure honestly. A fifteen-person independent store can do this. The tools are ready. The only thing missing is a clear look at where the cash is stuck.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Where should I open next?
+
+![Two candidate locations shown on a map](../../assets/examples/location-analysis.png)
+*Two candidate locations shown on a map*
+
+**What you ask:** `Show these two candidate shop locations on a map and note what is near each one.`
+
+The agent maps both spots and notes nearby features — foot traffic, competitors, parking — to help you weigh the choice.
+
+*Tip: Combine this with a web-research step on the neighbourhood for a fuller picture.*
+
+<!-- END agentbridge-examples -->

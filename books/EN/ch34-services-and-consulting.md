@@ -107,3 +107,22 @@ The honest caveat: none of this was instant. The proposal assistant produced rou
 **Measure honestly and expect the ramp.** Record the baseline before you start. Judge the project after the learning curve, not during it. The method is in [Chapter 22 — Measuring Results and ROI](ch22-measuring-results-and-roi.md).
 
 The consulting firm's lesson is the same as every other sector's, with one extra guardrail: find the repetitive work — proposals, search, reporting, coordination — let AI draft and retrieve, keep a human on the judgment and the client relationship, and measure honestly. And in a firm built on trust, never let the tool touch a client's confidential file until you are certain it is safe to.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Draw your service area
+
+![A service-area map for customers](../../assets/examples/service-area.png)
+*A service-area map for customers*
+
+**What you ask:** `Show our service area on a map with the main towns we cover.`
+
+The agent produces a clear map of your coverage that you can put on your website or send to customers.
+
+*Tip: Keep it updated as you grow — just ask for a new version.*
+
+<!-- END agentbridge-examples -->

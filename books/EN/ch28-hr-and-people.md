@@ -212,3 +212,48 @@ If a box is empty, a person may feel it — and the law may reach it. Fill every
 - Emotion recognition in the workplace is banned; never buy or use a tool that scores staff by reading their feelings.
 - Use HR data to make the workplace better for the group, never to surveil or punish individuals, and keep the human welcome in onboarding.
 - Measure the baseline, keep a human in every people decision, and treat the law as the floor and fairness as the standard above it.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### A simple staff handbook
+
+![A friendly staff handbook, ready to share](../../assets/examples/employee-handbook.png)
+*A friendly staff handbook, ready to share*
+
+**What you ask:** `Write a short employee handbook covering working hours, holidays, remote work rules and who to ask for help.`
+
+The agent writes a clear, friendly handbook in plain language, with each topic on its own page. Update it any time by asking — 'add a line about the new parking rule'.
+
+*Tip: Keep it in your documents area so the agent can answer questions from it later.*
+
+---
+
+### A weekly timesheet
+
+![A weekly timesheet with totals per person](../../assets/examples/timesheet.png)
+*A weekly timesheet with totals per person*
+
+**What you ask:** `Create a weekly timesheet with people, projects, hours per day and a total per person.`
+
+The agent builds the timesheet grid with daily columns and automatic totals. Fill it in or attach your rough hours and let it sort them.
+
+*Tip: Multiply hours by each rate and you have a billing sheet too — just ask.*
+
+---
+
+### Train your team fast
+
+![A step-by-step training slide](../../assets/examples/training-deck.png)
+*A step-by-step training slide*
+
+**What you ask:** `Make a training deck on how to handle a customer refund, step by step.`
+
+The agent turns the process into clear slides, one step each, easy to follow. Use it for onboarding and refreshers.
+
+*Tip: Add a final slide with 'who to ask' so people know where to get help.*
+
+<!-- END agentbridge-examples -->

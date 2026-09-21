@@ -207,3 +207,100 @@ If a box is empty, you are risking trust. Fill it before you press send.
 - AI drafts, a human reviews: never ship an AI-written message or let a chatbot bluff instead of handing off to a person.
 - Clean data is the foundation — messy records make lead scores, segments, and churn flags wrong.
 - Use AI to serve customers better, not to spam or manipulate them; consent and honesty protect the trust you are selling on.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Turn an idea into a proposal
+
+![A structured project proposal document](../../assets/examples/project-proposal.png)
+*A structured project proposal document*
+
+**What you ask:** `Create a project proposal for a small online shop: goals, what we deliver, timeline of 8 weeks, and a price of 9,500 euros.`
+
+The agent builds a proposal with the client's goal, your solution, the deliverables, the timeline and the price — all in a clean layout that looks like it took a whole afternoon. It took a minute.
+
+*Tip: Add your logo and a sentence about past results to make it feel personal.*
+
+---
+
+### Track your sales
+
+![A sales tracker with revenue by channel](../../assets/examples/sales-tracker.png)
+*A sales tracker with revenue by channel*
+
+**What you ask:** `Create a sales tracker with month, channel and revenue, and a chart of revenue by channel.`
+
+The agent builds the tracker and the chart. Add rows as you go, or attach your raw sales list and ask it to fill the sheet for you.
+
+*Tip: Attach a messy export from your shop and say 'clean this into a tracker' — it will.*
+
+---
+
+### A pitch deck from one prompt
+
+![A presentation slide built by the agent](../../assets/examples/pitch-deck.png)
+*A presentation slide built by the agent*
+
+**What you ask:** `Make a 6-slide pitch deck for my delivery startup: problem, solution, market, model, traction, ask.`
+
+The agent designs the slides with a clean look, one clear idea per slide, and the right order for a pitch. In the browser you press F11 for full screen and present.
+
+*Tip: Need a real .pptx to send? Use /tools office-files and ask for PowerPoint.*
+
+---
+
+### A client sales deck
+
+![A client-facing sales presentation slide](../../assets/examples/sales-presentation.png)
+*A client-facing sales presentation slide*
+
+**What you ask:** `Create a sales deck summarising our work with Acme and proposing the next phase.`
+
+The agent builds a focused deck: results so far, what the client gained, and the proposed next step. You tweak the numbers and present with confidence.
+
+*Tip: Attach the project report and the agent pulls the highlights into the slides.*
+
+---
+
+### A polite follow-up
+
+![A friendly follow-up email draft](../../assets/examples/follow-up.png)
+*A friendly follow-up email draft*
+
+**What you ask:** `Write a short follow-up to a client who has not replied to our quote from last week.`
+
+The agent writes a light, polite nudge that reminds without pressure. You send it and keep the relationship warm.
+
+*Tip: A scheduled follow-up can send these for you if a reply has not arrived.*
+
+---
+
+### A customer newsletter
+
+![A newsletter draft ready to send](../../assets/examples/newsletter.png)
+*A newsletter draft ready to send*
+
+**What you ask:** `Write a monthly newsletter for our customers: new items, a tip, and a small discount code.`
+
+The agent writes the newsletter in your voice with the news, a useful tip and the offer. Send it, or let it prepare one on a schedule.
+
+*Tip: A monthly scheduled task can draft the newsletter for your review each time.*
+
+---
+
+### Turn a topic into a podcast
+
+![A podcast episode ready to play](../../assets/examples/podcast-episode.png)
+*A podcast episode ready to play*
+
+**What you ask:** `Create a 5-minute podcast episode about why small shops should go online, in a friendly two-voice style.`
+
+The agent writes the script and produces an audio episode with two voices, ready to publish. Your message, in audio form, with no studio.
+
+*Tip: Give it your key points and it shapes them into a natural conversation.*
+
+<!-- END agentbridge-examples -->

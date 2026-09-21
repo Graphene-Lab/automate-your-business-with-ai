@@ -239,3 +239,22 @@ If a box is empty, you have not finished evaluating. Fill it before you sign. A 
 - The monthly price is only a fraction of the cost — always build a three-year total that includes seats, usage, setup, support, and exit.
 - Open-source is a real, affordable, lock-in-free path, but it trades money for effort and skill; choose it when you have the help to run it.
 - Refuse urgency: a good tool survives a week of careful thought, and a vendor who welcomes a real pilot is confident for good reason.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Compare products before buying
+
+![A side-by-side product comparison](../../assets/examples/product-compare.png)
+*A side-by-side product comparison*
+
+**What you ask:** `Compare these two printers for a small office: price, running cost and reliability.`
+
+The agent researches both products and lays out a clear comparison so you can pick the better fit for your budget and use.
+
+*Tip: Ask for the total cost of ownership, not just the sticker price.*
+
+<!-- END agentbridge-examples -->

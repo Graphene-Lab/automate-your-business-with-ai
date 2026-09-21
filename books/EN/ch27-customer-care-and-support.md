@@ -208,3 +208,48 @@ If a box is empty, a customer may feel it. Fill it before you let AI answer for 
 - The chatbot's most important feature is a clean handoff to a human with full context — never let a bot block a person.
 - One fresh, shared knowledge base should feed the bot, the FAQ, and your agents; sentiment analysis should prioritize the queue, not judge the customer.
 - Measure resolution and satisfaction, not deflection, and keep a human accountable for every outcome.
+
+<!-- BEGIN agentbridge-examples -->
+
+## Try it with AgentBridge
+
+Here is how the same job looks with AgentBridge. Each box shows the finished result and the one line you type to get it.
+
+### Answer an email in your voice
+
+![A drafted email reply, ready to send](../../assets/examples/quick-reply.png)
+*A drafted email reply, ready to send*
+
+**What you ask:** `Reply to this customer thanking them and confirming we will ship tomorrow: [paste email]`
+
+The agent writes a friendly, professional reply that sounds like you. You read it once, press send, and move on.
+
+*Tip: Set up your mail once with /email. After that, reading and sending work from the chat.*
+
+---
+
+### Catch up on your inbox
+
+![A short summary of the inbox with the urgent items](../../assets/examples/inbox-summary.png)
+*A short summary of the inbox with the urgent items*
+
+**What you ask:** `Summarise my unread emails and tell me which ones need a reply today.`
+
+The agent reads your unread mail and gives you a short list: what is urgent, what can wait, and what you can ignore. You tackle the real priorities first.
+
+*Tip: A morning summary can be scheduled so this is waiting for you with your coffee.*
+
+---
+
+### Find a customer fast
+
+![A customer record retrieved on request](../../assets/examples/customer-lookup.png)
+*A customer record retrieved on request*
+
+**What you ask:** `Find the customer Maria Rossi and show her contact and last order.`
+
+The agent finds the customer and shows the contact details and the last order, so you can help without putting them on hold.
+
+*Tip: Ask for the last three orders if you want the full picture.*
+
+<!-- END agentbridge-examples -->
