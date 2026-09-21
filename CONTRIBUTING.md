@@ -18,7 +18,8 @@ If a smart non-technical reader could get stuck on a sentence, rewrite that sent
 
 Every chapter must be **thorough and complete**. This is not a blog post or a summary.
 
-- Target **2,500–3,500 words** per regular chapter.
+- A typical regular chapter runs **2,500–3,500 words**. This is an **indicative** range, **not a hard limit**. It exists so a first draft lands at a sensible size, not to cap the content.
+- **The current book is a first pass (a draft).** Chapters may go **over** this range freely when new material genuinely adds value. Do not cut useful content just to hit a number, and do not pad to reach one.
 - Every sub-part listed in the chapter outline must be covered **fully**, in its own subsection (use `###`).
 - Give the reader enough to **act**, not just to nod along.
 - "How to Do It" sections must contain real, ordered steps a reader can follow.
