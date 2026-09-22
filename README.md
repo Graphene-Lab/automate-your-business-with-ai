@@ -8,10 +8,18 @@ This book is written for people who run businesses, not for engineers. Every ide
 
 ## Download the book (free)
 
-The English (EN) edition is free to read and share under its license:
+The book is free to read and share under its license, in six languages:
 
-- **PDF:** [`publish/Automate-Your-Business-with-AI-EN.pdf`](publish/Automate-Your-Business-with-AI-EN.pdf)
-- **EPUB:** [`publish/Automate-Your-Business-with-AI-EN.epub`](publish/Automate-Your-Business-with-AI-EN.epub)
+| Language | PDF | EPUB |
+|---|---|---|
+| English (EN) | [PDF](publish/Automate-Your-Business-with-AI-EN.pdf) | [EPUB](publish/Automate-Your-Business-with-AI-EN.epub) |
+| Italiano (IT) | [PDF](publish/Automate-Your-Business-with-AI-IT.pdf) | [EPUB](publish/Automate-Your-Business-with-AI-IT.epub) |
+| Français (FR) | [PDF](publish/Automate-Your-Business-with-AI-FR.pdf) | [EPUB](publish/Automate-Your-Business-with-AI-FR.epub) |
+| Español (ES) | [PDF](publish/Automate-Your-Business-with-AI-ES.pdf) | [EPUB](publish/Automate-Your-Business-with-AI-ES.epub) |
+| Deutsch (DE) | [PDF](publish/Automate-Your-Business-with-AI-DE.pdf) | [EPUB](publish/Automate-Your-Business-with-AI-DE.epub) |
+| Русский (RU) | [PDF](publish/Automate-Your-Business-with-AI-RU.pdf) | [EPUB](publish/Automate-Your-Business-with-AI-RU.epub) |
+
+Note: the screenshots of documents and presentations stay in English in every edition — they are demos of the tool, so their language does not matter.
 
 ## The tool behind the examples
 
