@@ -49,11 +49,23 @@ cover paper and printing, and the ebook at any price. Anyone who redistributes o
 adapts it must give credit and share derivatives under the same license. The
 manifest price is a normal retail price and can be changed freely.
 
-### 2. No ISBN
-The book has no ISBN. Many stores need one:
-- Ebook-only stores often allow publishing without an ISBN (use their free ID).
-- Print and most aggregators require an ISBN. Getting one is **not free** and goes
-  through a national ISBN agency. It cannot be automated.
+### 2. ISBN (one per language AND per format)
+Source: **Latvijas Nacionālā bibliotēka** (National Library of Latvia) — the ISBN
+agency for Latvia. Cost: **3.00 EUR per title**, or an annual publisher
+subscription (**15.00 EUR up to 10 titles**).
+
+The ISBN rule is per **edition** and per **format**:
+- Each language is a separate edition → its own ISBN.
+- Each format (paperback, hardcover, EPUB, PDF) of the same edition → its own ISBN.
+
+For this book in six languages:
+- **Ebook only**: 6 ISBNs → 15 EUR subscription (cheaper than 6 × 3 = 18 EUR).
+- **Ebook + paperback**: 12 ISBNs → use the subscription tier above 10 titles.
+
+Getting the ISBN is a human step (apply at the National Library of Latvia, pay).
+Once you have each ISBN, put it in the matching manifest (`isbn` field) and in
+`secrets/ayb.json` under `isbn_plan`. Ebook-only stores can sometimes publish
+without an ISBN using their own free ID.
 
 ### 3. Account registration is a human step
 Every store needs a real account. Signup needs things an automated tool cannot do:
