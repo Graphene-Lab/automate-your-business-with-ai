@@ -95,7 +95,11 @@ This book is open for contributions. Please read the [Contributing Guide](CONTRI
 
 ## License
 
-The text of this book is proposed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license. Code snippets and templates are proposed under the **MIT License**. Final licensing is confirmed by the maintainers.
+The text of this book is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. Code snippets and templates are licensed under the **MIT License**.
+
+You are free to share and adapt this book **for any purpose, even commercially** — including selling printed copies to cover the cost of paper and printing, or selling the ebook — as long as you give credit and share any derivatives under the same license.
+
+See the `LICENSE` file for the full terms.
 
 ---
 
