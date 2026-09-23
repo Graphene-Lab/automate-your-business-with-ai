@@ -29,8 +29,6 @@ Inquadra questo codice per raggiungerci su Telegram:
 
 ![Contattaci su Telegram](../../assets/qr-agentbridge-telegram.png)
 
-## Questo libro è gratuito
-
-Questo libro è pubblicato a titolo gratuito. Puoi scaricarlo, leggerlo e condividerlo secondo la sua licenza. Gli esempi che vedi qui servono a mostrare che automatizzare la propria attività è semplice, e che non serve essere una persona tecnica per cominciare.
+Gli esempi che vedi qui servono a mostrare che automatizzare la propria attività è semplice, e che non serve essere una persona tecnica per cominciare.
 
 *— Graphene Lab*

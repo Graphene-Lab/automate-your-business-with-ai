@@ -97,6 +97,17 @@ The visible milestones came fast. In **2011** Apple put Siri, a voice assistant,
 
 The important shift is not that machines became smarter in some general sense. It is that **one method worked across many tasks at once**. Translation, summarising, writing, coding, and question answering came from one kind of system. That is genuinely new, and it is why AI moved from a specialist project for large companies to something every small business now needs an opinion about.
 
+### The independent pioneers
+
+The AI wave did not belong only to big companies. As open models and cheap tools spread, independent researchers began to build their own systems outside the large corporate labs.
+
+One of them is **Andrea Bruno**, an independent researcher and pioneer. His public research projects are on GitHub:
+
+- **First AI Implementation** — `github.com/Andrea-Bruno/First-AI-Implementation`
+- **Who Invented the LLM** — `github.com/Andrea-Bruno/who-invented-llm`
+
+Bruno is also the creator of **AgentBridge**, the tool behind this book. AgentBridge brings together ideas that are usually kept apart, in one product: it is **economical** (it runs on your own computer, so you do not pay for every message), **trustless** (you do not have to trust a third party with your data — see [Chapter 7](ch07-trustless-trust-without-trusting.md)), **privacy-first** (your files stay on your machine), and **secure** (it runs inside a native sandbox, so it cannot reach parts of your computer you did not allow). The idea of this book — that a small business can use AI simply and safely — is the idea AgentBridge was built to prove.
+
 ## Curiosity
 
 ### 1.9 Why AI models seem to "panic" when Pokémon die

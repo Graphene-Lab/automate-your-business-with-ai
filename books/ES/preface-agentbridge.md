@@ -40,10 +40,6 @@ Escanea este código para contactarnos por Telegram:
 
 ![Contáctanos por Telegram](../../assets/qr-agentbridge-telegram.png)
 
-## Este libro es gratis
-
-Este libro se publica de forma gratuita. Puedes descargarlo, leerlo y compartirlo según
-su licencia. Los ejemplos que ves aquí están hechos para mostrar que automatizar tu
-negocio es sencillo, y que no necesitas ser una persona técnica para empezar.
+Los ejemplos que ves aquí están hechos para mostrar que automatizar tu negocio es sencillo, y que no necesitas ser una persona técnica para empezar.
 
 *— Graphene Lab*

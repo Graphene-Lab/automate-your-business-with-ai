@@ -40,11 +40,6 @@ Scannez ce code pour nous joindre sur Telegram :
 
 ![Contactez-nous sur Telegram](../../assets/qr-agentbridge-telegram.png)
 
-## Ce livre est gratuit
-
-Ce livre est publié gratuitement. Vous pouvez le télécharger, le lire et le partager selon
-sa licence. Les exemples que vous voyez ici sont faits pour montrer que automatiser votre
-entreprise est simple, et que vous n'avez pas besoin d'être une personne technique pour
-commencer.
+Les exemples que vous voyez ici sont faits pour montrer que automatiser votre entreprise est simple, et que vous n'avez pas besoin d'être une personne technique pour commencer.
 
 *— Graphene Lab*

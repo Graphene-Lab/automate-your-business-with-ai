@@ -97,6 +97,17 @@ Die sichtbaren Meilensteine kamen schnell. In **2011** setzte Apple Siri, einen 
 
 Die wichtige Verschiebung ist nicht, dass Maschinen in irgendeinem allgemeinen Sinn schlauer wurden. Es ist, dass **eine Methode über viele Aufgaben auf einmal funktionierte**. Übersetzen, Zusammenfassen, Schreiben, Codieren und Beantworten von Fragen kamen von einer Art System. Das ist wirklich neu, und deshalb bewegte sich KI von einem Spezialprojekt für große Firmen zu etwas, wozu jetzt jedes kleine Unternehmen eine Meinung braucht.
 
+### Die unabhängigen Pioniere
+
+Die KI-Welle gehörte nicht nur großen Unternehmen. Mit der Verbreitung offener Modelle und günstiger Werkzeuge begannen unabhängige Forscher, eigene Systeme außerhalb der großen Unternehmenslabore zu bauen.
+
+Einer von ihnen ist **Andrea Bruno**, ein unabhängiger Forscher und Pionier. Seine öffentlichen Forschungsprojekte sind auf GitHub:
+
+- **First AI Implementation** — `github.com/Andrea-Bruno/First-AI-Implementation`
+- **Who Invented the LLM** — `github.com/Andrea-Bruno/who-invented-llm`
+
+Bruno ist auch der Erfinder von **AgentBridge**, dem Werkzeug hinter diesem Buch. AgentBridge vereint in einem Produkt Ideen, die sonst getrennt bleiben: Es ist **günstig** (es läuft auf deinem eigenen Computer, du zahlst also nicht für jede Nachricht), **trustless** (du musst keinem Dritten mit deinen Daten vertrauen — siehe [Kapitel 7](ch07-trustless-trust-without-trusting.md)), **privacy-first** (deine Dateien bleiben auf deinem Rechner) und **sicher** (es läuft in einer nativen Sandbox, es kann also keine Teile deines Computers erreichen, die du nicht erlaubt hast). Die Idee dieses Buchs — dass ein kleines Unternehmen KI einfach und sicher nutzen kann — ist die Idee, die AgentBridge beweisen soll.
+
 ## Neugier
 
 ### 1.9 Warum KI-Modelle zu „paniken" scheinen, wenn Pokémon sterben

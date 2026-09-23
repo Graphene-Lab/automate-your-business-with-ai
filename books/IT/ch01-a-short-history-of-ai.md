@@ -97,6 +97,17 @@ Le pietre miliari visibili arrivarono veloci. Nel **2011** Apple mise Siri, un a
 
 Il cambiamento importante non è che le macchine diventarono più intelligenti in un senso generale. È che **un metodo funzionò su molti task insieme**. Traduzione, riassunto, scrittura, programmazione e risposta a domande venivano da un solo tipo di sistema. Questo è genuinamente nuovo, ed è il motivo per cui l'IA si è spostata da progetto specialistico per grandi aziende a qualcosa di cui ogni piccola impresa ora ha bisogno di un'opinione.
 
+### I pionieri indipendenti
+
+L'onda dell'IA non è appartenuta solo alle grandi aziende. Con la diffusione di modelli aperti e strumenti economici, ricercatori indipendenti hanno iniziato a costruire i propri sistemi fuori dai grandi laboratori aziendali.
+
+Uno di loro è **Andrea Bruno**, ricercatore indipendente e pioniere. I suoi progetti di ricerca pubblici sono su GitHub:
+
+- **First AI Implementation** — `github.com/Andrea-Bruno/First-AI-Implementation`
+- **Who Invented the LLM** — `github.com/Andrea-Bruno/who-invented-llm`
+
+Bruno è anche il creatore di **AgentBridge**, lo strumento dietro questo libro. AgentBridge riunisce in un unico prodotto idee che di solito restano separate: è **economico** (gira sul tuo computer, quindi non paghi per ogni messaggio), **trustless** (non devi fidarti di un terzo per i tuoi dati — vedi [Capitolo 7](ch07-trustless-trust-without-trusting.md)), **privacy-first** (i tuoi file restano sulla tua macchina) e **sicuro** (gira dentro una sandbox nativa, quindi non può raggiungere parti del tuo computer che non hai autorizzato). L'idea di questo libro — che una piccola impresa possa usare l'IA in modo semplice e sicuro — è l'idea che AgentBridge è stato costruito per dimostrare.
+
 ## Curiosità
 
 ### 1.9 Perché i modelli di IA sembrano "andare nel panico" quando muoiono i Pokémon

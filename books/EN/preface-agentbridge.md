@@ -38,10 +38,7 @@ Scan this code to reach us on Telegram:
 
 ![Contact us on Telegram](../../assets/qr-agentbridge-telegram.png)
 
-## This book is free
-
-This book is published free of charge. You can download it, read it, and share it under
-its license. The examples you see here are made to show that automating your business is
-simple, and that you do not need to be a technical person to start.
+The examples in this book are made to show that automating your business is simple, and
+that you do not need to be a technical person to start.
 
 *— Graphene Lab*

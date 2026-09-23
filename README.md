@@ -6,9 +6,9 @@ A practical, plain-English book that helps small-business owners, managers, and 
 
 This book is written for people who run businesses, not for engineers. Every idea is explained in simple words, with real examples, step-by-step guidance, exercises, and checklists you can use the same day.
 
-## Download the book (free)
+## Download the book
 
-The book is free to read and share under its license, in six languages:
+The book is available to read and share under its license, in six languages:
 
 | Language | PDF | EPUB |
 |---|---|---|
