@@ -1,0 +1,57 @@
+{
+  "slug": "ayb",
+  "clean_cover": "assets/book-cover.png",
+  "cover_size": { "width": 1024, "height": 1536 },
+  "publisher": "Graphene Lab",
+  "year": "2026",
+  "languages": {
+    "EN": {
+      "title": "Automate Your Business with AI",
+      "subtitle": "A No-Jargon Guide to the Future of Work",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    },
+    "IT": {
+      "title": "Automatizza il tuo business con l'IA",
+      "subtitle": "Una guida senza gergo al futuro del lavoro",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    },
+    "FR": {
+      "title": "Automatiser votre entreprise avec l'IA",
+      "subtitle": "Un guide sans jargon sur le futur du travail",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    },
+    "ES": {
+      "title": "Automatiza tu negocio con IA",
+      "subtitle": "Una guía sin tecnicismos sobre el futuro del trabajo",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    },
+    "DE": {
+      "title": "Automatisiere dein Unternehmen mit KI",
+      "subtitle": "Ein Leitfaden ohne Fachbegriffe für die Zukunft der Arbeit",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    },
+    "RU": {
+      "title": "Автоматизируйте свой бизнес с помощью ИИ",
+      "subtitle": "Руководство о будущем работы — без сложных слов",
+      "author": "Andrea Bruno",
+      "color": "#FFFFFF",
+      "genre": "Business / Artificial Intelligence",
+      "isbn": ""
+    }
+  }
+}
